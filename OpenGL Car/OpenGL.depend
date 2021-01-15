@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1600699254 source:h:\zzzzzzz\opengl demo\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598692880 h:\zzzzzzz\opengl demo\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1600746746 source:f:\downloads\opengl demo-new\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598692880 f:\downloads\opengl demo-new\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1601475304 source:c:\users\hasnat\downloads\compressed\new folder\opengl demo-update version\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1598646080 c:\users\hasnat\downloads\compressed\new folder\opengl demo-update version\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1601563302 source:g:\cse 420\opengl demo- 1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits>
+	<windows.h>
+	<glut.h>
+
+1598646080 g:\cse 420\opengl demo- 1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1601563302 source:g:\cse 420\opengl car-body\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits>
+	<windows.h>
+	<glut.h>
+
+1598646080 g:\cse 420\opengl car-body\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1601563603 source:c:\users\user\music\420\computer-graphics-projects\r&d\result\opengl car-body\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits>
+	<windows.h>
+	<glut.h>
+
+1598646080 c:\users\user\music\420\computer-graphics-projects\r&d\result\opengl car-body\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1601652374 source:c:\users\user\music\420\computer-graphics-projects\r&d\result\opengl car\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits>
+	<windows.h>
+	<glut.h>
+
+1598646080 c:\users\user\music\420\computer-graphics-projects\r&d\result\opengl car\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1601652374 source:d:\downloads\computer-graphics-projects-master\r&d\result\opengl car\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits>
+	<windows.h>
+	<glut.h>
+
+1598646080 d:\downloads\computer-graphics-projects-master\r&d\result\opengl car\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
